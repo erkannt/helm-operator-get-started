@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: rknt/podinfo
-      tag: stg-szxulirf
+      tag: stg-j9miki2x
     replicaCount: 2
     hpa:
       enabled: true
