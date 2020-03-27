@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: rknt/podinfo
-      tag: dev-szxulirf
+      tag: dev-yftk9nmb
     replicaCount: 1
     hpa:
       enabled: false
